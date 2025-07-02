@@ -1,5 +1,7 @@
 ---
 title: "About"
 ---
+## About Me
+My name is **Stepher Sabio**, and I am currently attending *Williams College*.
 
-About this site
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
